@@ -1,0 +1,4 @@
+{
+  "name": "EngiDigitize",
+  "description": "An AI-powered application to automate the conversion of engineering drawings and datasheets from static formats (like scans) into structured 1D data (JSON) and 2D vector drawings (SVG/DXF)."
+}
